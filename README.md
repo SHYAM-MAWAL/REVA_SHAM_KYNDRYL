@@ -51,8 +51,8 @@ Based on [LangChain Academy — Introduction to LangChain](https://academy.langc
 **Prerequisites:** Python >=3.12, <3.14 · [uv](https://docs.astral.sh/uv/) recommended · Chrome recommended
 
 ```bash
-git clone https://github.com/SHYAM-MAWAL/langchain-academy-sessions.git
-cd langchain-academy-sessions
+git clone https://github.com/SHYAM-MAWAL/REVA_SHAM_KYNDRYL.git
+cd REVA_SHAM_KYNDRYL
 cp example.env .env
 # Edit .env with your API keys (OpenAI required; Tavily, Anthropic, Google, LangSmith optional)
 uv sync
